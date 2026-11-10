@@ -26,16 +26,15 @@ Projetos desenvolvidos e publicados na web utilizando desenvolvimento assistido 
 
 
 
-Stack e Competências (AI Builder)
 
-- **Prompt Engineering & Orquestração:** Vivência com prompt engineering avançado e orquestração de agentes (Claude, GPT, Gemini).
-- **Vibe Coding & Automação:** Construção de soluções do zero em poucos dias com ferramentas de vibe coding e automação.
-- **Engenharia de Produto com IA:** Capacidade de traduzir necessidades reais em ferramentas funcionais e produtos digitais.
-- **Desenvolvimento Assistido por IA:** Claude Code, Lovable, Gamma App.
+ Stack e Competências (AI Builder)
+
+- **Conceitos de IA:** Engenharia de Prompts (Prompt Engineering), orquestração de Agentes Autônomos (AI Agents), Automação de Processos e Inteligência Artificial Generativa.
+- **Ferramentas No-Code/Low-Code:** Claude Code, Lovable, Gamma App, n8n, Make, Zapier, Copilot e ChatGPT Plus/Enterprise.
+- **Dados e Negócios:** Análise de Dados, Python (automação/análise), SQL e visão de produto para resolução de problemas.
+- **Metodologias de Projetos:** Metodologias Ágeis (Scrum/Kanban), Design Thinking e Mapeamento de Processos (As-Is / To-Be).
 - **Deploy, Versionamento e Ambiente:** GitHub, Vercel, Netlify, Wix, VS Code.
 - **Idiomas:** Inglês Intermediário - Avançado *(Certificado de Proficiência 96h — SUCESSO Espaço Linguístico, 2024)*.
-
-
 
 Formação e Conquistas
 
